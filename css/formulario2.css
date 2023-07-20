@@ -1,0 +1,17 @@
+/* Estilos para centrar todo el contenido */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #5ac1d3; /* Color de fondo */
+  }
+  
+  .container {
+    text-align: center;
+  
+  h1, h2, label, input, button, table, th, td {
+    color: #333; /* Color de texto */
+  }
+  
